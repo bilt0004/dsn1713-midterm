@@ -2,6 +2,9 @@
 
 /* Set custom variables here */
 :root {
+  --bs-primary: #2e483a;
+  --bs-primary-rgb: 46, 72, 58;
+  
   --primary: #2e483a;
   --primary: rgb(46, 72, 58);
 
@@ -52,7 +55,6 @@ h1, h2, h3 {
 }
 
 #hero {
-  height: 800px;
   background-color: #E4E6DB;
   background-image: url(../images/hero-bg-img.png);
   background-repeat: no-repeat;
