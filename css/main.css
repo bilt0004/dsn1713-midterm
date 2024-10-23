@@ -12,12 +12,11 @@
   --primary-dk: rgb(29, 52, 40);
 
   --primary-light: #c7e3d3;
-}
 
-/* .bg-primary {
-  --bs-bg-opacity: 1;
-  background-color: rgb(var(--primary), var(--bs-bg-opacity)) !
-} */
+  --bs-body-bg: #f6f3ed;
+
+  
+}
 
 .btn-primary {
   --bs-btn-color: #fff;
