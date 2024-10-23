@@ -6,16 +6,19 @@
   --bs-primary-rgb: 46, 72, 58;
   
   --primary: #2e483a;
-  --primary: rgb(46, 72, 58);
+  --primary-rgb: 46, 72, 58;
 
   --primary-dk: #1d3428;
-  --primary-dk: rgb(29, 52, 40);
+  --primary-dk-rgb: 29, 52, 40;
 
   --primary-light: #c7e3d3;
+  --primary-light-rgb: 199, 227, 211;
 
   --bs-body-bg: #f6f3ed;
+  --bs-body-bg-rgb: 246, 243, 237;
 
-  
+  --bs-light: #f6f3ed;
+  --bs-light-rgb: 246, 243, 237;
 }
 
 .btn-primary {
